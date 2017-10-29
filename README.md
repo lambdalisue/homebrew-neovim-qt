@@ -1,7 +1,7 @@
-# homebrew-tap
+# homebrew-neovim
 
 ## Usage
 
 ```
-brew tap lambdalisue/tap/{formula}
+brew tap lambdalisue/neovim
 ```
