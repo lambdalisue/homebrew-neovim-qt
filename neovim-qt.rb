@@ -1,8 +1,8 @@
 class NeovimQt < Formula
   desc "Neovim clinet library and GUI, in Qt5"
   homepage "https://github.com/equalsraf/neovim-qt"
-  url "https://github.com/equalsraf/neovim-qt/archive/v0.2.8.zip"
-  sha256 "d96b59819d4c0247075a23cfbe1d0b24ccc69cfe38dbf228cdb145588be4013f"
+  url "https://github.com/equalsraf/neovim-qt/archive/v0.2.8.tar.gz"
+  sha256 "53653c21de1dd41fb78a65f27e989b3478c74ad91cbde92f831fb3d81b25802b"
 
   head "https://github.com/equalsraf/neovim-qt"
 
